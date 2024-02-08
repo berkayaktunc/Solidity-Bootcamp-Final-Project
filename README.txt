@@ -1,7 +1,8 @@
-Wallet ID: 0x38B02b65cbE026319541a6B66f1186471493DADb
+Wallet ID to create contract: 0x38B02b65cbE026319541a6B66f1186471493DADb
+Contract ID: 0x1771DB6356F3064b0478A185f5A3926e563DF885
 
 Testnet link:
-https://testnet.bscscan.com/address/0x38B02b65cbE026319541a6B66f1186471493DADb
+https://testnet.bscscan.com/address/0x1771db6356f3064b0478a185f5a3926e563df885
 
 
 
