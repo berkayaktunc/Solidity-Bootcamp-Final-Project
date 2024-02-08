@@ -1,3 +1,10 @@
+Wallet ID: 0x38B02b65cbE026319541a6B66f1186471493DADb
+
+Testnet link:
+https://testnet.bscscan.com/address/0x38B02b65cbE026319541a6B66f1186471493DADb
+
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
